@@ -1,4 +1,27 @@
 <!-- START_SECTION:style -->
+```text
+     _    _                 _     __  __      
+    / \  | |__   ___  _   _| |_  |  \/  | ___ 
+   / _ \ | '_ \ / _ \| | | | __| | |\/| |/ _ \
+  / ___ \| |_) | (_) | |_| | |_  | |  | |  __/
+ /_/   \_\_.__/ \___/ \__,_|\__| |_|  |_|\___|
+
+
+┌ Followers ┐  ┌ Stars ┐
+│     2     │  │   0   │
+└───────────┘  └───────┘
+┌ Languages ────────────────────────── ┐
+│ Java             █████░░░░░░░  44.3% │
+│ Shell            ███░░░░░░░░░  23.0% │
+│ Jupyter Notebook ██░░░░░░░░░░  14.6% │
+│ HTML             █░░░░░░░░░░░   6.3% │
+│ Python           █░░░░░░░░░░░   6.3% │
+└──────────────────────────────────────┘
+
+┌ Stats ───── ┐
+│ Commits 391 │
+└─────────────┘
+```
 <!-- END_SECTION:style -->
 
 <!--START_SECTION:style-->
@@ -7,26 +30,14 @@
 <!-- START_SECTION:STYLE -->
 <!-- END_SECTION:STYLE -->
 
-<!-- START_SECTION:ascii -->
-<!-- END_SECTION:ascii -->
-
 <!--START_SECTION:ascii-->
 <!--END_SECTION:ascii-->
-
-<!-- START_SECTION:stats -->
-<!-- END_SECTION:stats -->
 
 <!--START_SECTION:stats-->
 <!--END_SECTION:stats-->
 
-<!-- START_SECTION:languages -->
-<!-- END_SECTION:languages -->
-
 <!--START_SECTION:languages-->
 <!--END_SECTION:languages-->
-
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
