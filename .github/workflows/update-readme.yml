@@ -4,15 +4,13 @@ on:
   push:
     branches:
       - main
-    paths:
-      - profile.config.json
-      - .github/workflows/update-readme.yml
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     permissions:
       contents: write
