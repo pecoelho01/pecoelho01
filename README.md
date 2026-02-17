@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ola, eu sou o @pecoelho01
 
-<!--
-**pecoelho01/pecoelho01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante e developer focado em criar projetos práticos com boa organização e evolução contínua.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interesses: desenvolvimento web, automação e projetos orientados a dados.
+- Objetivo: transformar ideias em produtos simples, úteis e bem estruturados.
+- Atualmente: evoluindo portfolio e projetos pessoais no GitHub.
+
+## Projetos em destaque
+
+- [Portfolio](https://github.com/pecoelho01/pecoelho01.github.io)
+- [Gerenciamento de Estacionamento](https://github.com/pecoelho01/gerenciamento-estacionamento)
+- [Calculadora de Rendimentos](https://github.com/pecoelho01/calculadora-rendimentos)
+
+## Contato
+
+- GitHub: [@pecoelho01](https://github.com/pecoelho01)
