@@ -1,0 +1,27 @@
+{
+  "username": "pecoelho01",
+  "style": "terminal",
+  "styleText": "",
+  "sections": {
+    "ascii": {
+      "enabled": true,
+      "text": "About Me",
+      "font": "Standard",
+      "showCats": false
+    },
+    "stats": {
+      "enabled": true,
+      "showCommits": true,
+      "showStars": true,
+      "showFollowers": true
+    },
+    "languages": {
+      "enabled": true,
+      "topN": 5
+    },
+    "activity": {
+      "enabled": false,
+      "limit": 5
+    }
+  }
+}
