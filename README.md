@@ -10,8 +10,8 @@ Visit my [LinkedIn](https://www.linkedin.com/in/pecoelhoo01/) or my [site](https
 
 ### Apps
 
-- [MetroLive](https://github.com/pecoelho01/MetroLive) - Real-time metro information app.
-- [InfoCursos](https://github.com/pecoelho01/InfoCursos) - Course information platform.
+- [MetroLive](https://github.com/pecoelho01/MetroLiveTime) - Real-time metro information app.
+- [InfoCursos](https://github.com/pecoelho01/InfoCursosPT) - Course information platform.
 
 ### Outros projetos
 
