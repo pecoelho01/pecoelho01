@@ -4,7 +4,7 @@ Building small, practical projects while learning software engineering, web deve
 
 Main languages: Java and Python.
 
-Check out my [LinkedIn](https://www.linkedin.com/in/pecoelhoo01/) or my [site](https://pecoelho01.github.io).
+Visit my [LinkedIn](https://www.linkedin.com/in/pecoelhoo01/) or my [site](https://pecoelho01.github.io).
 
 ## Projetos principais
 
