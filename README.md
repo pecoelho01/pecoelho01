@@ -1,43 +1,20 @@
-<!-- START_SECTION:style -->
-```text
-     _    _                 _     __  __      
-    / \  | |__   ___  _   _| |_  |  \/  | ___ 
-   / _ \ | '_ \ / _ \| | | | __| | |\/| |/ _ \
-  / ___ \| |_) | (_) | |_| | |_  | |  | |  __/
- /_/   \_\_.__/ \___/ \__,_|\__| |_|  |_|\___|
+2nd-year Computer Engineering student.
 
+Building small, practical projects while learning software engineering, web development, and systems programming.
 
-┌ Followers ┐  ┌ Stars ┐
-│     2     │  │   0   │
-└───────────┘  └───────┘
-┌ Languages ──────────────────── ┐
-│ Java       ██████░░░░░░  47.0% │
-│ Shell      ███░░░░░░░░░  24.2% │
-│ Python     ██░░░░░░░░░░  15.9% │
-│ HTML       █░░░░░░░░░░░   6.1% │
-│ JavaScript ░░░░░░░░░░░░   3.6% │
-└────────────────────────────────┘
+Main languages: Java and Python.
 
-┌ Stats ───── ┐
-│ Commits 573 │
-└─────────────┘
-```
-<!-- END_SECTION:style -->
+Check out my [LinkedIn](https://www.linkedin.com/in/pecoelhoo01/) or my [site](https://pecoelho01.github.io).
 
-<!--START_SECTION:style-->
-<!--END_SECTION:style-->
+## Projetos principais
 
-<!-- START_SECTION:STYLE -->
-<!-- END_SECTION:STYLE -->
+### Apps
 
-<!--START_SECTION:ascii-->
-<!--END_SECTION:ascii-->
+- [MetroLive](https://github.com/pecoelho01/MetroLive) - Real-time metro information app.
+- [InfoCursos](https://github.com/pecoelho01/InfoCursos) - Course information platform.
 
-<!--START_SECTION:stats-->
-<!--END_SECTION:stats-->
+### Outros projetos
 
-<!--START_SECTION:languages-->
-<!--END_SECTION:languages-->
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- [combustiveis-pt](https://github.com/pecoelho01/combustiveis-pt) - Precos dos combustiveis em tempo real.
+- [calculadora-rendimentos](https://github.com/pecoelho01/calculadora-rendimentos) - Ferramenta para calcular rendimentos.
+- [gerenciamento-estacionamento](https://github.com/pecoelho01/gerenciamento-estacionamento) - Programa para gerir entradas e saidas de um estacionamento.
